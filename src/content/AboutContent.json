@@ -1,15 +1,16 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Discover Honduras",
+  "text": "Learn more about the vibrant culture, rich history, and beautiful landscapes of Honduras.",
+  "image": "https://images.adsttc.com/media/images/66f0/e5c1/4003/1801/7c33/5a5d/slideshow/tegucigalpa-architecture-city-guide-15-landmarks-to-explore-the-capital-of-honduras_17.jpg?1727063511",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Honduran Culture",
+      "content": "Experience the diverse traditions, music, and art that make Honduras unique.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Travel to Honduras",
+      "content": "Explore ancient Mayan ruins, pristine beaches, and lush rainforests.",
       "icon": "notes.svg"
     }
   ]

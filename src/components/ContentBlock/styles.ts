@@ -60,3 +60,9 @@ export const ButtonWrapper = styled("div")`
     margin-left: 20px;
   }
 `;
+
+export const StyledImage = styled("img")`
+  display: block;
+  max-width: 100%;
+  height: auto;
+`;

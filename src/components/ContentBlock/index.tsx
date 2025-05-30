@@ -14,6 +14,7 @@ import {
   MinPara,
   StyledRow,
   ButtonWrapper,
+  StyledImage
 } from "./styles";
 
 const ContentBlock = ({
@@ -33,6 +34,15 @@ const ContentBlock = ({
     });
   };
 
+  const isUrl = (string: string) => {
+    try {
+      new URL(string);
+      return true;
+    } catch (_) {
+      return false;
+    }
+  }
+
   return (
     <ContentSection>
       <Fade direction={direction} triggerOnce>
@@ -43,7 +53,10 @@ const ContentBlock = ({
           direction={direction}
         >
           <Col lg={11} md={11} sm={12} xs={24}>
-            <SvgIcon src={icon} width="100%" height="100%" />
+            {isUrl(icon) ? 
+              <StyledImage src={icon} alt={t(title)} width="100%" height="auto" /> : 
+              <SvgIcon src={icon} width="100%" height="100%" />
+            }
           </Col>
           <Col lg={11} md={11} sm={11} xs={24}>
             <ContentWrapper>

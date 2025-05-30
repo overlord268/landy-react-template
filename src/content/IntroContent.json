@@ -1,12 +1,13 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Embassy of Honduras in Israel",
+  "text": "Welcome to the official website of the Embassy of Honduras in Israel. Discover information about our services, cultural exchange, and bilateral relations.",
+  "image": "https://deadsea.com/wp-content/uploads/2019/01/jerusalem_shutter-1024x771.jpg",
   "button": [
     {
-      "title": "Explore"
+      "title": "Explore Services"
     },
     {
-      "title": "Learn more",
+      "title": "Contact Us",
       "color": "#fff"
     }
   ]
