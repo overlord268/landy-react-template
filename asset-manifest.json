@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landy-react-template/static/css/main.37ddbf14.css",
-    "main.js": "/landy-react-template/static/js/main.df5dfddb.js",
+    "main.js": "/landy-react-template/static/js/main.7c40dd9a.js",
     "static/js/150.2080c08f.chunk.js": "/landy-react-template/static/js/150.2080c08f.chunk.js",
     "static/js/676.ae0cdd2d.chunk.js": "/landy-react-template/static/js/676.ae0cdd2d.chunk.js",
     "static/js/416.9903c0ef.chunk.js": "/landy-react-template/static/js/416.9903c0ef.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/545.363a01e3.chunk.js": "/landy-react-template/static/js/545.363a01e3.chunk.js",
     "index.html": "/landy-react-template/index.html",
     "main.37ddbf14.css.map": "/landy-react-template/static/css/main.37ddbf14.css.map",
-    "main.df5dfddb.js.map": "/landy-react-template/static/js/main.df5dfddb.js.map",
+    "main.7c40dd9a.js.map": "/landy-react-template/static/js/main.7c40dd9a.js.map",
     "150.2080c08f.chunk.js.map": "/landy-react-template/static/js/150.2080c08f.chunk.js.map",
     "676.ae0cdd2d.chunk.js.map": "/landy-react-template/static/js/676.ae0cdd2d.chunk.js.map",
     "416.9903c0ef.chunk.js.map": "/landy-react-template/static/js/416.9903c0ef.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.37ddbf14.css",
-    "static/js/main.df5dfddb.js"
+    "static/js/main.7c40dd9a.js"
   ]
 }
